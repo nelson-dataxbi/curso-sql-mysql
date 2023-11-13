@@ -17,7 +17,7 @@
 8. Triggers
 
 ## Diapositivas
-  - [Diapositiva](presentaciones/Curso%20SQL%20Presentacion.pdf)
+  - [Diapositivas](presentaciones/Curso%20SQL%20Presentacion.pdf)
 
 ## Entorno de trabajo
 - [Instalar MySQL](https://dev.mysql.com/downloads/mysql/)
