@@ -1,7 +1,7 @@
 -- Ejercicios con funciones de agregación con GROUP BY y HAVING
--- usando la base de datos Northwind
+-- usando la base de datos Sakila
 
-use northwind;
+use sakila;
 
 -- Ejercicio 1: Encontrar la duración mínima de las películas.
 
@@ -19,3 +19,7 @@ use northwind;
 
 -- Ejercicio 8: Lista de categorías con rentas
 
+JOIN         -- INNER JOIN
+LEFT JOIN    -- LEFT OUTER JOIN
+RIGHT JOIN   -- RIGHT OUTER JOIN
+FULL OUTER JOIN   
