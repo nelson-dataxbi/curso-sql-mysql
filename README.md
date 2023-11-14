@@ -46,5 +46,18 @@
   - [Subconsutas](ejercicios/E11%20Subconsultas.sql)
   - [CTE](ejercicios/E12%20CTE.sql)
 
+## Funciones de ventana
+- Ejercicios
+  - [Funciones de ventana con COUNT() y SUM()](ejercicios/E13%20Funciones%20Ventana.sql)
+  - [Funciones de ventana con FIRST_VALUE(), ROW_NUMBER(), RANK() Y DENSE_RANK()](ejercicios/E14%20Funciones%20Ventana%202.sql)
+
+## Modificar Datos
+- Ejercicios
+  - [Insertar, actualizar y borrar datos](ejercicios/E15%20Modificar%20Datos.sql)
+  - [Ejemplo del uso de transacciones explícitas](ejercicios/E16%20Transacciones.sql)
+
+## Modificar Estructura
+- Ejercicios
+  - [Crear una base de datos para manejar un banco](ejercicios/E17%20Modificar%20Estructura.sql)
 
 
