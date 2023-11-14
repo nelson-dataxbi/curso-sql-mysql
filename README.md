@@ -61,7 +61,7 @@
   - [Crear una base de datos para manejar un banco](ejercicios/E17%20Modificar%20Estructura.sql)
   - [Ejemplos de Vistas](ejercicios/E18%20Vistas.sql)
   - [Ejemplos de Procedimientos Almacenados](ejercicios/E19%20Procedimientos%20Almacenados.sql)
-  - [Ejemplos de Funcions](ejercicios/E20%20Funciones.sql)
+  - [Ejemplos de Funciones](ejercicios/E20%20Funciones.sql)
   - [Ejemplos de Triggers](ejercicios/E20%20Triggers.sql)
 
 
