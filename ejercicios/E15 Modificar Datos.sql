@@ -16,7 +16,7 @@ use sakila;
 -- Intenta actualizar el `store_id` de un cliente a un valor que no existe en la tabla `store`.
 
 -- Ejercicio 5:
--- Elimina un actor de la tabla `actor` que no tiene películas asociadas.
+-- Elimina los actores de la tabla `actor` que no tengan películas asociadas.
 
 -- Ejercicio 6: 
 -- Intenta eliminar un país de la tabla `country` que todavía tiene ciudades asociadas 
