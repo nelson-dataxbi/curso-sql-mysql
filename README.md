@@ -11,7 +11,6 @@
 3. Subconsultas y CTE
 4. Funciones de ventana
 5. Modificar Datos - INSERT, UPDATE, DELETE
-    1. Transacciones
 6. Modificar Estructura - CREATE, ALTER, DROP
 7. Procedimientos almacenados
 8. Triggers
@@ -63,5 +62,6 @@
   - [Ejemplos de Procedimientos Almacenados](ejercicios/E19%20Procedimientos%20Almacenados.sql)
   - [Ejemplos de Funciones](ejercicios/E20%20Funciones.sql)
   - [Ejemplos de Triggers](ejercicios/E20%20Triggers.sql)
+  - [Transferir dinero entre cuentas bancarias](ejercicios/E22%20Banco.sql)
 
 
