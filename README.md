@@ -64,4 +64,7 @@
   - [Ejemplos de Triggers](ejercicios/E20%20Triggers.sql)
   - [Transferir dinero entre cuentas bancarias](ejercicios/E22%20Banco.sql)
 
+## Rendimiento
+- Ejercicios
+  - [Índices y plan de consulta](ejercicios/E23%20Rendimiento.sql)
 
