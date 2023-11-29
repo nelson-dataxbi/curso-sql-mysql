@@ -41,3 +41,25 @@ BEGIN
     WHERE SalesOrder.employeeId = employeeId;
 END //
 DELIMITER ;
+
+-- Ejercicio 4: Procedimiento Almacenado con Parámetro para Análisis por Territorio
+
+-- 1. Crear un procedimiento llamado 'AnalisisVentasPorTerritorio'.
+--    Este debe aceptar un parámetro 'regionId'.
+
+--      1.1 Centro del Procedimiento Almacenado, crear una tabla temporal 
+--           'tmpVentasPorTerritorio' dentro del procedimiento que incluya columnas 
+--            como 'territorio', 'número de órdenes', 'total de ventas'.
+
+--      1.2 Llenar la tabla temporal basado en las tablas 'SalesOrder', 'Employee', 
+--          'Territory', filtrando por 'regionId'.
+
+--      1.3 Realizar cálculos como total de ventas y número de órdenes por territorio,
+--          y luego insertar los resultados en 'tmpVentasPorTerritorio'.
+
+-- 2. Ejecutar el procedimiento almacenado. 
+
+-- 3. Utilizar SELECT para mostrar los resultados de 'tmpVentasPorTerritorio'.
+
+-- 4. Eliminar la tabla temporal.
+
